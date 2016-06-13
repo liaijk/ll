@@ -4,4 +4,8 @@ likai521521
 zuili
 likai
 aiaiaiai
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Cerating a new branch is quick AND simple.
+>>>>>>> featurel
